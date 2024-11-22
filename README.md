@@ -75,7 +75,3 @@ Sair Escolha uma opção:
   - `main()`: Gerencia o fluxo principal do programa.
 
 ---
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
